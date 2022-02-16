@@ -7,6 +7,6 @@ if __name__ == "__main__":
             title = "Wash Your Eye!!",
             message = "Reduce Eye Strain.. Be happy",
             app_icon = "photo.ico",
-            timeout = 10,
+            timeout = 2,
         )
         time.sleep(30*60)
