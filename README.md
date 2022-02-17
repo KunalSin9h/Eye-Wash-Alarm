@@ -25,7 +25,7 @@ Run in Background
 ```
 
 
-Kill program
+Kill the program
 
 ```bash
     1. Open Task Manager and in Process find Python.
