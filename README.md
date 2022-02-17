@@ -2,8 +2,7 @@
 Code Which can be made to run in background, which notify in every 30 m to wash eye
 
 ## Demo
-![demo](https://user-images.githubusercontent.com/82411321/154310932-5b4b618f-032b-4017-ae1b-37fc2436d066.png)
-
+![demo](https://user-images.githubusercontent.com/82411321/154313095-c0eceb7b-433b-4712-9da3-abfa875cbae2.png)
 
 ## Run Locally
 
