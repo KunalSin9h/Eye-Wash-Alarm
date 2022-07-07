@@ -1,5 +1,5 @@
 # Eye-Wash-Alarm
-Code Which can be made to run in background, which notify in every 30 m to wash eye
+Code Which can be made to run in background, which notify in every 30 minutes to wash eye
 
 ## Demo
 ![demo](https://user-images.githubusercontent.com/82411321/154313095-c0eceb7b-433b-4712-9da3-abfa875cbae2.png)
